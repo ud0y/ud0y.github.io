@@ -16,11 +16,11 @@ Find my [Academic CV Here](https://drive.google.com/file/d/1razXfyiSXdpKIvBS5LoX
 
 ## Updates
 
-<code style="color: aqua">[05-08-24]</code> 1 shared task paper accepted at GEM 2024 <br>
-<code style="color: aqua">[11-07-24]</code> 2 shared task papers accepted at ArabicNLP 2024 <br>
-<code style="color: aqua">[25-06-24]</code> 1 shared task paper accepted at CheckThat! 2024 <br>
-<code style="color: aqua">[19-03-24]</code> 1 shared task paper accepted at SemEval 2024 <br>
-<code style="color: aqua">[11-10-23]</code> 2 shared task papers accepted at BLP Workshop @EMNLP 2023
+<code style="color: green"><b>[05-08-24]</b></code> 1 shared task paper accepted at GEM 2024 <br>
+<code style="color: green"><b>[11-07-24]</b></code> 2 shared task papers accepted at ArabicNLP 2024 <br>
+<code style="color: green"><b>[25-06-24]</b></code> 1 shared task paper accepted at CheckThat! 2024 <br>
+<code style="color: green"><b>[19-03-24]</b></code> 1 shared task paper accepted at SemEval 2024 <br>
+<code style="color: green"><b>[11-10-23]</b></code> 2 shared task papers accepted at BLP Workshop @EMNLP 2023
 
 ## Learning Resources
 

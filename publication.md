@@ -1,26 +1,33 @@
 ---
 layout: default
-is_publication: true
 ---
+<style>
+th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}    
+</style>
 
-# Publications
 
+<h1><code style="color: orangered">Publications</code></h1>
+
+---
 ## Research Interest
+---
 * Text-to-speech
 * Natural Language Processing
 * Computer Vision
 * Machine and Deep Learning
 
-|[Google Scholar](https://scholar.google.com/citations?user=VLDlaZ4AAAAJ&hl=en)|[Research Gate](https://www.researchgate.net/profile/Udoy-Das-2)| 
-|---|---|
+<!-- |[Google Scholar](https://scholar.google.com/citations?user=VLDlaZ4AAAAJ&hl=en)|[Research Gate](https://www.researchgate.net/profile/Udoy-Das-2)|  -->
 
 
-<!-- <table>
+<table>
 <tr> 
 <td><a href="https://scholar.google.com/citations?user=VLDlaZ4AAAAJ&hl=en">Google Scholar</a></td>
 <td><a href="https://www.researchgate.net/profile/Udoy-Das-2">Research Gate</a></td>
 </tr>
-</table> -->
+</table>
 
 ## Conferences
 * Fired_from_NLP at CheckThat! 2024: Estimating the Check-Worthiness of Tweets Using a Fine-tuned Transformer-based Approach <br>

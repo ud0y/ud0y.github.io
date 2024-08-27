@@ -1,16 +1,17 @@
 ---
 layout: default
-is_skills: true
 ---
 
-## Technical Skills
+<h1><code style="color: orangered">Technical Skills </code></h1>
+
+---
 
 <pre>
-Proficient           Python, C++, C
-Moderate             Java, HTML5, CSS3
-Web Technologies     ExpressJS, ReactJS, NodeJS
-Database Systems     MongoDB, MySQL
-ML & DL              Scikit-Learn, Tensorﬂow, Keras, Pytorch
-Libraries            NumPy, Pandas, Matplotlib, Seaborn
-Version Control      Git
+<code style="color: fuchsia">Proficient</code>           Python, C++, C
+<code style="color: fuchsia">Moderate</code>             Java, HTML5, CSS3
+<code style="color: fuchsia">Web Technologies</code>     ExpressJS, ReactJS, NodeJS
+<code style="color: fuchsia">Database Systems</code>     MongoDB, MySQL
+<code style="color: fuchsia">ML & DL</code>              Scikit-Learn, Tensorﬂow, Keras, Pytorch
+<code style="color: fuchsia">Libraries</code>            NumPy, Pandas, Matplotlib, Seaborn
+<code style="color: fuchsia">Version Control</code>      Git
 </pre>

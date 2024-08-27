@@ -1,10 +1,10 @@
 ---
 layout: default
-is_projects: true
 ---
 
-# Projects
+<h1><code style="color: orangered">Projects</code></h1>
 
+---
 ## T20 Score Predictor: Cricket Score Predictor
 ---
 
