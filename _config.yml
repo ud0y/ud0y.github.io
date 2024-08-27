@@ -1,15 +1,15 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Udoy Das
+url: "https://udoydas.net"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+# footer: yes
+# footer_url: "https://github.com/ankitsultana"
+# footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
@@ -17,8 +17,14 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/"
+ - name: "Education"
+   link: "education"
+ - name: "Publication"
+   link: "publication"
+ - name: "Projects"
+   link: "projects"
+ - name: "Skills"
+   link: "skills"
  - name: "Contact"
    link: "contact"

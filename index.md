@@ -1,45 +1,51 @@
 ---
 layout: default
 ---
+### Udoy Das
+B. Sc. in Computer Science and Engineering,
+Chittagong University of Engineering and Technology
+
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a dedicated and enthusiastic **Python** developer with a strong interest in **machine learning** and **deep learning**. I've also had a long-standing interest in **Natural Language Processing**, which has been a significant area of my competence. My extensive knowledge of these subjects, as well as practical experience applying their concepts to a variety of projects, have driven my interest for them. I regard myself as a dedicated, punctual, and truthful individual that is always eager to learn and take on new challenges.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Find my [Academic CV Here](https://drive.google.com/file/d/1razXfyiSXdpKIvBS5LoXjIZisr1MQRra/view?usp=sharing)
 
-## Research Interest
+## Updates
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+$${\color{green}[05-08-24]}$$ 1 shared task paper accepted at GEM 2024
+$${\color{green}[11-07-24]}$$ 2 shared task papers accepted at ArabicNLP 2024
+$${\color{green}[25-06-24]}$$ 1 shared task paper accepted at CheckThat! 2024
+$${\color{green}[19-03-24]}$$ 1 shared task paper accepted at SemEval 2024
+$${\color{green}[11-10-23]}$$ 2 shared task papers accepted at BLP Workshop @EMNLP 2023
 
-## Publications
+## Learning Resources
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+Here are some learning resources I found useful -
 
-## Typography
+* Books
+    - Deep Learning with Python [link](https://www.manning.com/books/deep-learning-with-python)
+    - Transformers for Natural Language Processing [link](https://www.packtpub.com/en-us/product/transformers-for-natural-language-processing-9781803247335)
+    - Natural Language Processing with Transformers[link](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+* Blogs
+    - Attention Mechanism [link](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+    - The Illustrated Transformer [link](https://jalammar.github.io/illustrated-transformer/)
+    - The Illustrated BERT [link](http://jalammar.github.io/illustrated-bert/)
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+* YouTube Playlists
+    - Pytorch Tutorials [link](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+    - Deep Learning in Hindi [link](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+    - Machine Learning for Beginners [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
 
 ---
 
-Here is a blockquote
+Qoute that inspires
 
-> To a great mind, nothing is little
+> The best way to predict your future is to create it. - 
+*Abraham Lincoln*
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+---
