@@ -28,17 +28,17 @@ Find my [Academic CV Here](https://drive.google.com/file/d/1razXfyiSXdpKIvBS5LoX
 
 Here are some learning resources I found useful -
 
-* Books
+* **Books**
     - Deep Learning with Python [[link](https://www.manning.com/books/deep-learning-with-python)]
     - Transformers for Natural Language Processing [[link](https://www.packtpub.com/en-us/product/transformers-for-natural-language-processing-9781803247335)]
     - Natural Language Processing with Transformers [[link](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)]
 
-* Blogs
+* **Blogs**
     - Attention Mechanism [[link](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)]
     - The Illustrated Transformer [[link](https://jalammar.github.io/illustrated-transformer/)]
     - The Illustrated BERT [[link](http://jalammar.github.io/illustrated-bert/)]
 
-* YouTube Playlists
+* **YouTube Playlists**
     - Pytorch Tutorials [[link](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)]
     - Deep Learning in Hindi [[link](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)]
     - Machine Learning for Beginners [[link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)]
