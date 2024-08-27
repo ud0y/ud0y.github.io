@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-### Udoy Das
-B. Sc. in Computer Science and Engineering,
+# Udoy Das
+B. Sc. in Computer Science and Engineering, <br>
 Chittagong University of Engineering and Technology
 
 
