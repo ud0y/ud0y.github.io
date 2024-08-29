@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+<style>
+th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}    
+</style>
+
 # Udoy Das
 B. Sc. in Computer Science and Engineering, <br>
 Chittagong University of Engineering and Technology
@@ -15,6 +22,16 @@ Chittagong University of Engineering and Technology
 </div>
 
 Find my [Academic CV Here](https://drive.google.com/file/d/1BfWhgnwd5sA5POOCbkD6kJDG1UmpTyr_/view?usp=sharing)
+
+
+<table>
+<tr> 
+<td><a href="https://github.com/ud0y">GitHub</a></td>
+<td><a href="https://www.linkedin.com/in/udoy-das-948356194">LinkedIn</a></td>
+<td><a href="https://scholar.google.com/citations?user=VLDlaZ4AAAAJ&hl=en">Google Scholar</a></td>
+<td><a href="https://www.researchgate.net/profile/Udoy-Das-2">Research Gate</a></td>
+</tr>
+</table>
 
 ## Updates
 
