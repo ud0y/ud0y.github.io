@@ -5,6 +5,13 @@ layout: default
 <h1><code style="color: orangered">Projects</code></h1>
 
 ---
+## LLAMA 3: Sentiment Analysis
+---
+* Technologies/Tools: Pandas, HuggingFace, Transformers, peft, SKLearn, Pybangla
+* Github URL: [Project](https://github.com/ud0y/Sentiment-Analysis-using-LLM)
+* Goals and Objectives of the project: In this project, I started by analyzing the raw text data and applying various preprocessing techniques, including removing unwanted text, special characters, and emojis. After cleaning the data, I used Meta-Llama-3.1-8B with 4-bit precision and ﬁne-tuned it using LoRA. This approach resulted in an accuracy of 75%.
+
+
 ## T20 Score Predictor: Cricket Score Predictor
 ---
 

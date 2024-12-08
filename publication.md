@@ -35,11 +35,15 @@ th, td {
 ---
 * CUET_SSTM at the GEM’24 Summarization Task: Integration of extractive and abstractive method for long text summarization in Swahili language <br>
 *Samia Rahman, Momtazul Labib, Hasan Murad, **Udoy Das*** <br>
-CLEF 2024 | [Paper](https://ceur-ws.org/Vol-3740/paper-34.pdf)
+GEM 2024 | [Paper](https://aclanthology.org/2024.inlg-genchal.12.pdf)
 
 * Fired_from_NLP at CheckThat! 2024: Estimating the Check-Worthiness of Tweets Using a Fine-tuned Transformer-based Approach <br>
 *Md Sajid Alam Chowdhury, Anik Mahmud Shanto, Mostak Mahmud Chowdhury, Hasan Murad, **Udoy Das*** <br>
 CLEF 2024 | [Paper](https://ceur-ws.org/Vol-3740/paper-34.pdf)
+
+* Fired_from_NLP at SemEval-2024 Task 1: Towards Developing Semantic Textual Relatedness Predictor-A Transformer-based Approach <br>
+*Anik Shanto, Md Sajid Alam Chowdhury, Mostak Chowdhury, **Udoy Das**, Hasan Murad* <br>
+SemEval 2024 | [Paper](https://aclanthology.org/2024.semeval-1.123.pdf)
 
 * CUET_sstm at ArAIEval Shared Task: Unimodal (Text) Propagandistic Technique Detection Using Transformer-Based Model <br>
 *Momtazul Labib, Samia Rahman, Hasan Murad, **Udoy Das*** <br>
