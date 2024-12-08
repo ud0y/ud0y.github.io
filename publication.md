@@ -14,10 +14,12 @@ th, td {
 ---
 ## Research Interest
 ---
-* Text-to-speech
 * Natural Language Processing
-* Computer Vision
+* Multimodal Learning
 * Machine and Deep Learning
+* Multilingual NLP
+* Large Language Models (LLMs)
+* Text-to-Speech
 
 <!-- |[Google Scholar](https://scholar.google.com/citations?user=VLDlaZ4AAAAJ&hl=en)|[Research Gate](https://www.researchgate.net/profile/Udoy-Das-2)|  -->
 
@@ -31,6 +33,10 @@ th, td {
 
 ## Conferences
 ---
+* CUET_SSTM at the GEM’24 Summarization Task: Integration of extractive and abstractive method for long text summarization in Swahili language <br>
+*Samia Rahman, Momtazul Labib, Hasan Murad, **Udoy Das*** <br>
+CLEF 2024 | [Paper](https://ceur-ws.org/Vol-3740/paper-34.pdf)
+
 * Fired_from_NLP at CheckThat! 2024: Estimating the Check-Worthiness of Tweets Using a Fine-tuned Transformer-based Approach <br>
 *Md Sajid Alam Chowdhury, Anik Mahmud Shanto, Mostak Mahmud Chowdhury, Hasan Murad, **Udoy Das*** <br>
 CLEF 2024 | [Paper](https://ceur-ws.org/Vol-3740/paper-34.pdf)

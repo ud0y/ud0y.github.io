@@ -9,6 +9,9 @@ th, td {
 </style>
 
 # Udoy Das
+Teaching Assistant <br>
+East Delta University <br>
+
 B. Sc. in Computer Science and Engineering, <br>
 Chittagong University of Engineering and Technology
 
@@ -21,7 +24,7 @@ Chittagong University of Engineering and Technology
     Hi! I am a dedicated and enthusiastic <b>Python</b> developer with a strong interest in <b>machine learning</b> and <b>deep learning</b>. I've also had a long-standing interest in <b>Natural Language Processing</b>, which has been a significant area of my competence. My extensive knowledge of these subjects, as well as practical experience applying their concepts to a variety of projects, have driven my interest for them. I regard myself as a dedicated, punctual, and truthful individual that is always eager to learn and take on new challenges.
 </div>
 
-Find my [Academic CV Here](https://drive.google.com/file/d/1BfWhgnwd5sA5POOCbkD6kJDG1UmpTyr_/view?usp=sharing)
+> Find my [Academic CV Here](https://drive.google.com/file/d/1DOVZy32F6ak3dmqamt5zQBjKRXlOuO3t/view?usp=sharing)
 
 
 <table>
@@ -35,6 +38,8 @@ Find my [Academic CV Here](https://drive.google.com/file/d/1BfWhgnwd5sA5POOCbkD6
 
 ## Updates
 
+<code style="color: green"><b>[30-11-24]</b></code> Submitted my thesis <i>BnVITS: End-to-End Single Speaker Bangla Text-to-Speech Synthesis and Voice Cloning with Minimal Audio Samples</i> in Journal of Computer Speech & Language<br>
+<code style="color: green"><b>[05-10-24]</b></code> Joined as a Teaching Assistant at East Delta University <br>
 <code style="color: green"><b>[05-08-24]</b></code> 1 shared task paper accepted at GEM 2024 <br>
 <code style="color: green"><b>[11-07-24]</b></code> 2 shared task papers accepted at ArabicNLP 2024 <br>
 <code style="color: green"><b>[25-06-24]</b></code> 1 shared task paper accepted at CheckThat! 2024 <br>

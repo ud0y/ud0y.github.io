@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [u1804109@student.cuet.ac.bd](mailto:u1804109@student.cuet.ac.bd), [udoydas153@gmail.com](mailto:udoydas153@gmail.com)
+* Email: [udoy.d@eastdelta.edu.bd](mailto:udoy.d@eastdelta.edu.bd), [u1804109@student.cuet.ac.bd](mailto:u1804109@student.cuet.ac.bd), [udoydas153@gmail.com](mailto:udoydas153@gmail.com)
 
 * Phone: [+8801830702457](tel:+8801830702457)
 

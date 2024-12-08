@@ -21,8 +21,7 @@ GPA: 4.83 out of 5.00 <br>
 # International Certification
 ### Language Profociency Test-IELTS
 
-Test Date: September 16, 2024
-
-<!-- Score: 7.5 (Score Card)
-Listening - 8.5 | Reading - 8.0 | Speaking - 7.5 | Writing - 6.5
-Test taken: Sep 23, 2021  -->
+Test Date: September 16, 2024 <br>
+<br>
+Score: **7.5** (Score Card) <br>
+Listening - 8.5 | Reading - 8.5 | Speaking - 6.5 | Writing - 6.5 <br>
