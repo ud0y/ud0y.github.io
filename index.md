@@ -25,7 +25,7 @@ CGPA: **3.75(with Honors)** / 4.00 <br>
     Hi! I am a dedicated and enthusiastic <b>Python</b> developer with a strong interest in <b>machine learning</b> and <b>deep learning</b>. I've also had a long-standing interest in <b>Natural Language Processing</b>, which has been a significant area of my competence. My extensive knowledge of these subjects, as well as practical experience applying their concepts to a variety of projects, have driven my interest for them. I regard myself as a dedicated, punctual, and truthful individual that is always eager to learn and take on new challenges.
 </div>
 
-> Find my [Academic CV Here](https://drive.google.com/file/d/11t8vEJVNTpG4IvVGR7e8vXgNmD5Gbcd0/view?usp=sharing)
+> Find my [Academic CV Here](https://drive.google.com/file/d/1SpFCWLR5qSatHsVEwOifKv3DESYB4T2A/view?usp=sharing)
 
 
 <table>
@@ -38,9 +38,11 @@ CGPA: **3.75(with Honors)** / 4.00 <br>
 </table>
 
 ## Updates
+<code style="color: green"><b>[17-06-25]</b></code> <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i> is now accepted and can be found - <a href="https://link.springer.com/article/10.1007/s42452-025-07351-0">here</a><br>
 <code style="color: green"><b>[13-05-25]</b></code> <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i> is now available as preprint - <a href="https://www.researchsquare.com/article/rs-6530449/latest">here</a> and currently under review<br>
 <code style="color: green"><b>[25-04-25]</b></code> Submitted my thesis <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i> in Journal of Discover Applied Sciences<br>
 <code style="color: green"><b>[28-02-25]</b></code> 3 shared task papers has been accepted at DravidianLangTech-2025 @ NAACL 2025 <br>
+<code style="color: green"><b>[13-02-25]</b></code> Bangla Image Caption Generation Using Vision Transformer (ViT) Based Model has been accepted at ECCE 2025 <br>
 <code style="color: green"><b>[08-02-25]</b></code> Promoted to Lecturer <br>
 <code style="color: green"><b>[05-10-24]</b></code> Joined as a Teaching Assistant at East Delta University <br>
 <code style="color: green"><b>[05-08-24]</b></code> 1 shared task paper accepted at GEM 2024 <br>

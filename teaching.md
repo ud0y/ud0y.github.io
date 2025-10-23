@@ -5,6 +5,10 @@ layout: default
 <h1><code style="color: orangered">Teaching</code></h1>
 
 ---
+### The courses I am teaching this Fall 2025-
+* CSE 327: Artificial Interlligence
+* CSE 328: Artificial Intelligence Lab
+
 ### The courses I am teaching this Summer 2025-
 * CSE 327: Artificial Interlligence
 * CSE 328: Artificial Intelligence Lab
@@ -19,10 +23,6 @@ I have been promoted to **Lecturer** in February 2025.
 * CSE 113: Object Oriented Programming
 * ME 102: Engineering Drawing
 
-
-
-I joined the **Computer Science and Engineering Department** at **East Delta University** as a **Teaching Assistant** on October 5th, 2024.
-
 ### The courses I have taught this Fall 2024-
 
 * MATH 301: Statistics and Probability
@@ -30,3 +30,6 @@ I joined the **Computer Science and Engineering Department** at **East Delta Uni
 * CSE 104: Computer Programming Lab
 * ME 102: Engineering Drawing
 * CIS 103: Contemporary Information System
+
+
+I joined the **Computer Science and Engineering Department** at **East Delta University** as a **Teaching Assistant** on October 5th, 2024.

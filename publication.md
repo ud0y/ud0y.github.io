@@ -31,11 +31,18 @@ th, td {
 </tr>
 </table>
 
-## Conferences
+## Journals
 ---
 * BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech <br>
-***Udoy Das**, Md Saiful Islam, Hasan Murad, Muhammad Ibrahim Khan, Mehadi Hasan Menon, Tareq Muntasir* <br>
-Journal of Discover Applied Sciences | [Preprint](https://www.researchsquare.com/article/rs-6530449/latest)
+**Udoy Das***, Md Saiful Islam, Hasan Murad, Muhammad Ibrahim Khan, Mehadi Hasan Menon, Tareq Muntasir* <br>
+Journal of Discover Applied Sciences | [Paper](https://link.springer.com/article/10.1007/s42452-025-07351-0)
+
+
+## Conferences
+---
+* Bangla Image Caption Generation Using Vision Transformer (ViT) Based Model <br>
+*Arpita Sarker, **Udoy Das**, Hasan Murad* <br>
+2025 International Conference on Electrical, Computer and Communication Engineering (ECCE) | [Paper](https://ieeexplore.ieee.org/abstract/document/11013210)
 
 * Team ML_Forge@ DravidianLangTech 2025: Multimodal Hate Speech Detection in Dravidian Languages <br>
 *Adnan Faisal, Shiti Chowdhury, Sajib Bhattacharjee, **Udoy Das**, Samia Rahman, Momtazul Arefin Labib, Hasan Murad* <br>
@@ -74,5 +81,5 @@ ArabicNLP-WS 2024 | [Paper](https://aclanthology.org/2024.arabicnlp-1.36/)
 EMNLP 2023 | [Paper](https://aclanthology.org/2023.banglalp-1.39/)
 
 * EmptyMind at BLP-2023 Task 1: A Transformer-based Hierarchical-BERT Model for Bangla Violence-Inciting Text Detection <br>
-***Udoy Das**, Karnis Fatema, Md Ayon Mia, Mahshar Yahan, Md Sajidul Mowla, MD Fayez Ullah, Arpita Sarker, Hasan Murad* <br>
+**Udoy Das***, Karnis Fatema, Md Ayon Mia, Mahshar Yahan, Md Sajidul Mowla, MD Fayez Ullah, Arpita Sarker, Hasan Murad* <br>
 EMNLP 2023 | [Paper](https://aclanthology.org/2023.banglalp-1.19/)
