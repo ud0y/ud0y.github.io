@@ -6,6 +6,11 @@ layout: default
 
 ---
 
+### University of Manitoba
+
+M.Sc. in Computer Science and Engineering <br>
+September 2026 - Present <br>
+
 ### Chittagong University of Engineering & Technology(CUET)
 
 B.Sc. in Computer Science and Engineering <br>

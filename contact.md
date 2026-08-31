@@ -3,9 +3,11 @@ layout: default
 is_contact: true
 ---
 
-* Email: [udoy.d@eastdelta.edu.bd](mailto:udoy.d@eastdelta.edu.bd), [u1804109@student.cuet.ac.bd](mailto:u1804109@student.cuet.ac.bd), [udoydas153@gmail.com](mailto:udoydas153@gmail.com)
+* Email: [dasu1@myumanitoba.ca](mailto:dasu1@myumanitoba.ca) [udoy.d@eastdelta.edu.bd](mailto:udoy.d@eastdelta.edu.bd), [u1804109@student.cuet.ac.bd](mailto:u1804109@student.cuet.ac.bd), [udoydas153@gmail.com](mailto:udoydas153@gmail.com)
 
-* Phone: [+8801830702457](tel:+8801830702457)
+* Phone: [+1 (942) 388-2457](tel:+19423882457)
+
+* Phone: [+8801830702457](tel:+8801830702457) *This number is not in service anymore.*
 
 ---
 

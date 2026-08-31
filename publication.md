@@ -40,6 +40,10 @@ Journal of Discover Applied Sciences | [Paper](https://link.springer.com/article
 
 ## Conferences
 ---
+* Distortion-Aware Image Forgery Detection via Multi-Feature Forensic Fusion and Adaptive Thresholding <br>
+*Syed Bin Rafiq Nabil, **Udoy Das*** <br>
+Accepted | IEEE 9th International Conference on Information Communication and Signal Processing
+
 * Bangla Image Caption Generation Using Vision Transformer (ViT) Based Model <br>
 *Arpita Sarker, **Udoy Das**, Hasan Murad* <br>
 2025 International Conference on Electrical, Computer and Communication Engineering (ECCE) | [Paper](https://ieeexplore.ieee.org/abstract/document/11013210)

@@ -9,7 +9,11 @@ th, td {
 </style>
 
 # Udoy Das
-Lecturer <br>
+M.Sc. Student <br>
+Computer Science <br>
+University of Manitoba <br>
+
+**[Study Leave]** Lecturer <br>
 East Delta University <br>
 
 B. Sc. in Computer Science and Engineering, <br>
@@ -19,13 +23,13 @@ CGPA: **3.75(with Honors)** / 4.00 <br>
 
 ## About Me
 
-<img class="profile-picture" src="profile.jpg">
+<img class="profile-picture" src="new.jpeg">
 
 <div style="text-align: justify">
     Hi! I am a dedicated and enthusiastic <b>Python</b> developer with a strong interest in <b>machine learning</b> and <b>deep learning</b>. I've also had a long-standing interest in <b>Natural Language Processing</b>, which has been a significant area of my competence. My extensive knowledge of these subjects, as well as practical experience applying their concepts to a variety of projects, have driven my interest for them. I regard myself as a dedicated, punctual, and truthful individual that is always eager to learn and take on new challenges.
 </div>
 
-> Find my [Academic CV Here](https://drive.google.com/file/d/1SpFCWLR5qSatHsVEwOifKv3DESYB4T2A/view?usp=sharing)
+> Find my [Academic CV Here](https://drive.google.com/file/d/1eKpA-glT-pq8DNkJcWFnc-GbdMiuvYD1/view?usp=sharing)
 
 
 <table>
@@ -38,18 +42,22 @@ CGPA: **3.75(with Honors)** / 4.00 <br>
 </table>
 
 ## Updates
-<code style="color: green"><b>[17-06-25]</b></code> <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i> is now accepted and can be found - <a href="https://link.springer.com/article/10.1007/s42452-025-07351-0">here</a><br>
-<code style="color: green"><b>[13-05-25]</b></code> <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i> is now available as preprint - <a href="https://www.researchsquare.com/article/rs-6530449/latest">here</a> and currently under review<br>
-<code style="color: green"><b>[25-04-25]</b></code> Submitted my thesis <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i> in Journal of Discover Applied Sciences<br>
-<code style="color: green"><b>[28-02-25]</b></code> 3 shared task papers has been accepted at DravidianLangTech-2025 @ NAACL 2025 <br>
-<code style="color: green"><b>[13-02-25]</b></code> Bangla Image Caption Generation Using Vision Transformer (ViT) Based Model has been accepted at ECCE 2025 <br>
-<code style="color: green"><b>[08-02-25]</b></code> Promoted to Lecturer <br>
-<code style="color: green"><b>[05-10-24]</b></code> Joined as a Teaching Assistant at East Delta University <br>
-<code style="color: green"><b>[05-08-24]</b></code> 1 shared task paper accepted at GEM 2024 <br>
-<code style="color: green"><b>[11-07-24]</b></code> 2 shared task papers accepted at ArabicNLP 2024 <br>
-<code style="color: green"><b>[25-06-24]</b></code> 1 shared task paper accepted at CheckThat! 2024 <br>
-<code style="color: green"><b>[19-03-24]</b></code> 1 shared task paper accepted at SemEval 2024 <br>
-<code style="color: green"><b>[11-10-23]</b></code> 2 shared task papers accepted at BLP Workshop @EMNLP 2023
+<code style="color: #198754"><b>[09-09-26]</b></code> I am excited to begin my M.Sc. journey under the supervision of <a href="https://sadafsaleh.com/">Prof. Dr. Sadaf Salehkalaibar</a>.<br> 
+<code style="color: #198754"><b>[21-08-26]</b></code> I moved to Winnipeg, Manitoba, Canada, to begin my graduate studies at the University of Manitoba.<br> 
+<code style="color: #198754"><b>[05-06-26]</b></code> <i>Distortion-Aware Image Forgery Detection via Multi-Feature Forensic Fusion and Adaptive Thresholding</i> was accepted for publication.<br> 
+<code style="color: #198754"><b>[17-06-25]</b></code> <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i> was accepted for publication and is available <a href="https://link.springer.com/article/10.1007/s42452-025-07351-0">here</a>.<br> 
+<code style="color: #198754"><b>[13-05-25]</b></code> <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i> was made available as a preprint and submitted for peer review. <a href="https://www.researchsquare.com/article/rs-6530449/latest">View preprint</a>.<br> 
+<code style="color: #198754"><b>[25-04-25]</b></code> Submitted my thesis, <i>BnVITS: A Voice Cloning Approach for Single Speaker Text-to-Speech</i>, to the <i>Journal of Discover Applied Sciences</i>.<br> 
+<code style="color: #198754"><b>[28-02-25]</b></code> Three shared-task papers were accepted at DravidianLangTech-2025 @ NAACL 2025.<br> 
+<code style="color: #198754"><b>[13-02-25]</b></code> <i>Bangla Image Caption Generation Using Vision Transformer (ViT) Based Model</i> was accepted at ECCE 2025.<br> 
+<code style="color: #198754"><b>[08-02-25]</b></code> Promoted to Lecturer.<br> 
+<code style="color: #198754"><b>[05-10-24]</b></code> Joined East Delta University as a Teaching Assistant.<br> 
+<code style="color: #198754"><b>[05-08-24]</b></code> One shared-task paper was accepted at GEM 2024.<br> 
+<code style="color: #198754"><b>[11-07-24]</b></code> Two shared-task papers were accepted at ArabicNLP 2024.<br> 
+<code style="color: #198754"><b>[25-06-24]</b></code> One shared-task paper was accepted at CheckThat! 2024.<br> 
+<code style="color: #198754"><b>[19-03-24]</b></code> One shared-task paper was accepted at SemEval 2024.<br> 
+<code style="color: #198754"><b>[11-10-23]</b></code> Two shared-task papers were accepted at the BLP Workshop @ EMNLP 2023.
+
 
 ## Learning Resources
 
